@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "iett-app",
+    "slug": "iett-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "iett-app"
+}
